@@ -1,2 +1,2 @@
 # DeepCardiology
-Implementations of deep approaches for cardiology. 
+Implementations of deep approaches in cardiology. 
