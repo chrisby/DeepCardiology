@@ -11,6 +11,6 @@ Available implementations:
 
 Open implementations (non-exhaustive):
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3) (Hannun et al.): [Github repository](https://github.com/awni/ecg)
-* [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837)
+* [Real-Time Patient-Specific ECG Classification by 1-D Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7202837) (Kiranyaz et al.)
 
 If you would like to contribute an implementation, feel free to open a pull request.
