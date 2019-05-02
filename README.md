@@ -1,6 +1,6 @@
 # DeepCardiology
 
-This reposiroty aims to collect open source implementations of ML methods in cardiology to make them available for benchmarking. Its structure mirrors the two fundamental classification tasks relevant for the field: Beat classification and Phenotype classification. 
+This repository aims to collect open source implementations of ML methods in cardiology to make them available for benchmarking. Its structure mirrors the two fundamental classification tasks relevant for the field: Beat classification and Phenotype classification. 
 
 ### Phenotype Classification
 
